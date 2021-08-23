@@ -28,10 +28,15 @@ body - relevant for posts/comments - text of the post or comment
 timestamp - timestamp
 
 ## Data Wrangling 
+*  Dropped columns with high correlation and null values.
+*  Lowercasing the textual columns.
+*  Removing the stopwords.
+*  Finding Sensitivity And Subjectivity For The Textual Columns
+*  
+## Data Visualization
 * Plotting heatmap to find the correlation between continuous features.
 * Plotting Pairplots, barplots and kdeplots for the features and scatterplots.
 
-## Data Visualization
 Some of the visualizations are shown here:
 
 ![alt text](https://github.com/fahadmehfooz/Reddit-Vaccine-Myths-EDA/blob/main/images/__results___74_0.png)
