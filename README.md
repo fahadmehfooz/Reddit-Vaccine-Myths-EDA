@@ -1,6 +1,6 @@
 # Reddit-Vaccine-Myths-EDA
 
-* Investigating the myths related to vaccines.
+* Investigating the myths related to vaccines and to perform sentiment analysis.
 * Dataset contains 1566 rows and 8 columns.
 * Found out polarity and sensitivity of categorical columns.
 * Built a corpus and removed the stopwords.
