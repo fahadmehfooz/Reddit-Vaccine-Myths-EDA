@@ -34,8 +34,7 @@ timestamp - timestamp
 ## Data Visualization
 Some of the visualizations are shown here:
 
-![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___36_2.png?raw=true)
-![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___38_0.png)
-![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___46_0.png)
+![alt text](https://github.com/fahadmehfooz/Reddit-Vaccine-Myths-EDA/blob/main/images/__results___74_0.png)
+![alt text](https://github.com/fahadmehfooz/Reddit-Vaccine-Myths-EDA/blob/main/images/__results___80_1.png)
 
 
